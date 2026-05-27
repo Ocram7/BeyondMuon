@@ -1,0 +1,7 @@
+# Python >= 3.10 is required for the type annotations in the codebase
+torch>=2.0
+numpy>=1.24
+datasets>=2.14
+tiktoken>=0.5
+tqdm>=4.65
+tensorboard>=2.14
